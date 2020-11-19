@@ -1,0 +1,19 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "just for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marienko1/noda"
+  },
+  "dependencies": {
+    "shortid": "^2.2.15",
+    "yargs": "^16.0.3"
+  }
+}
